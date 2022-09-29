@@ -4,7 +4,7 @@
   "description": "A demo of the electron-buttons module",
   "main": "src/main.js",
   "scripts": {
-    "test": "npx electron ."
+    "start": "npx electron ."
   },
   "repository": {
     "type": "git",
