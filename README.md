@@ -2,6 +2,7 @@
 
 # Electron-Buttons-Quick-Start [![GitHub issues](https://img.shields.io/github/issues/jaythemanchs/Electron-Buttons)](https://github.com/jaythemanchs/Electron-Buttons/issues) [![GitHub forks](https://img.shields.io/github/forks/jaythemanchs/Electron-Buttons)](https://github.com/jaythemanchs/Electron-Buttons/network) [![GitHub stars](https://img.shields.io/github/stars/jaythemanchs/Electron-Buttons)](https://github.com/jaythemanchs/Electron-Buttons/stargazers) [![GitHub license](https://img.shields.io/github/license/jaythemanchs/Electron-Buttons)](https://github.com/jaythemanchs/Electron-Buttons/blob/main/LICENSE)
 Made with ❤️ by [JayTheManCHS](https://github.com/jaythemanchs)
+
 See the full Electron-Buttons repository [here](https://github.com/jaythemanchs/Electron-Buttons)
 
 ## Quick-Start
