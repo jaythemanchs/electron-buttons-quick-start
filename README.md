@@ -4,5 +4,22 @@
 Made with ❤️ by [JayTheManCHS](https://github.com/jaythemanchs)
 
 ## Quick-Start
+1. CLone the repository
 ```sh
+$ git clone https://github.com/jaythemanchs/electron-buttons-quick-start
 ```
+2. Go into the repository.
+```sh
+$ cd electron-buttons-quick-start
+```
+3. Install the required dependencies.
+```sh
+$ npm install
+```
+4. Start the app.
+```sh
+$ npm start
+```
+
+## License
+All code is licensed under the [MIT](https://github.com/jaythemanchs/electron-buttons-quick-start/blob/main/LICENSE) License.
